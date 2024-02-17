@@ -11,5 +11,5 @@ timeline: false
 
 ![支付宝](./assets/alipay.jpg)
 
-![微信](./assets/wechat-light.jpg)
-![微信](./assets/wechat-dark.png)
+![微信]()
+![微信]()
