@@ -1,0 +1,5 @@
+{
+  "cSpell.words": ["codeql", "fastcgi", "mrhope", "pnpm", "vite"],
+
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
